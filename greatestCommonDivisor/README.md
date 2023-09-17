@@ -6,7 +6,7 @@ Sample output: 12
 
 Sample input: 12 9
 
-Sample ouput: 3
+Sample output: 3
 
 Sample input: 15 20
 
