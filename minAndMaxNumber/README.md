@@ -1,5 +1,5 @@
-The program finds the min and max number of a sequence. Firstly, the number of numbers in sequence is enterder, then each number.
+The program finds the minimum and maximum number of a sequence. Firstly, the number of numbers in the sequence is entered, then each number.
 
 Sample input: 5 23 12 324 -32 123
 
-Sample ouput: -32 324
+Sample output: -32 324
