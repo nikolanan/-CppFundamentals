@@ -21,5 +21,7 @@ int main(){
 	cout.precision(2);
 
 	cout << finalResult;
+
+	return 0;
 }
 
