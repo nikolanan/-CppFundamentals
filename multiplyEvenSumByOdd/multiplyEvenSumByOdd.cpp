@@ -36,5 +36,7 @@ int main()
 	int n;
 	cin >> n;
 	cout << oddEven(n);
+
+	return 0;
 }
 
