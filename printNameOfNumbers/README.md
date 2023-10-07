@@ -59,3 +59,15 @@ Sample output: three hundred seven
 Sample input: 971
 
 Sample output: nine hundred seventy one
+
+Sample input: 91
+
+Sample output: ninety one
+
+Sample input: 24
+
+Sample output: twenty four
+
+Sample input: 57
+
+Sample output: fifty seven
